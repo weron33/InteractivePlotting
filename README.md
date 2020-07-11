@@ -9,6 +9,6 @@ To run repository You need to have installed Python 3 with following libraries:
   - Matplotlib
 
 If You are okey with above, all You need to do is open repository directory and type commend:
-  $ python plotPython
+$ python plotPython
 
 Hope You enjoy it. ;)
